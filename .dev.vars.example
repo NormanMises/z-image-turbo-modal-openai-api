@@ -1,3 +1,0 @@
-# Local client configuration. Replace these placeholders locally.
-API_KEY=replace-with-a-long-random-secret
-MODAL_ENDPOINT=https://your-modal-app.modal.run

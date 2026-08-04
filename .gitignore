@@ -199,7 +199,6 @@ node_modules/
 .playwright-cli/
 .dev.vars
 .dev.vars.*
-!.dev.vars.example
 public/
 .wrangler/
 output/
